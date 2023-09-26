@@ -2,7 +2,7 @@
 # VideoML-with-django
 VideoStreaming-and-MachineLearning-with-Django
 
-비디오 업로드 및 스트리밍 기능과 업로드한 비디오를 딥러닝 하는 기능 구현
+Ajax api를 활용한 비디오 업로드 및 스트리밍 기능과 업로드한 비디오를 장고 서버에서 딥러닝 하는 기능 구현
 
 시연
 
